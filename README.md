@@ -1,1 +1,1 @@
-# VKBot
+# VKBots
